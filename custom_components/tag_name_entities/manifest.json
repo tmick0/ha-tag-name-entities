@@ -1,5 +1,5 @@
 {
-    "domain": "tag_name",
+    "domain": "tag_name_entities",
     "name": "Tag Name Entities",
     "version": "0.0.1",
     "documentation": "https://github.com/tmick0/ha-tag-name-entities",
