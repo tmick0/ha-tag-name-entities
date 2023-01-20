@@ -1,0 +1,14 @@
+{
+    "domain": "tag_name",
+    "name": "Tag Name Entities",
+    "version": "0.0.1",
+    "documentation": "https://github.com/tmick0/ha-tag-name-entities",
+    "requirements": [],
+    "dependencies": [
+      "tag"
+    ],
+    "codeowners": [
+      "@tmick0"
+    ]
+  }
+  
